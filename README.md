@@ -1,15 +1,10 @@
 # Bienvenido al inicio de este proyecto
 Esto es realmente una ramificación del proyecto principal
 
-## Sobre mi
-Hola soy Joel Ramos un "apasionado" estudiante de todos los campos de la informática con una reciente pasión por SQL.
-
 ## Sobre el proyecto
-[Google.es](https://www.google.es/)
 
 [Inicio de sesión](http://localhost/adminlte/dist/pages/Loginclientes.php)
 
-## Ejemplos de código
 
 [Descripción de la imagen](https://picsum.photos/800/600)
 
